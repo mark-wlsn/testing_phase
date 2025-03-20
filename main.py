@@ -2,7 +2,7 @@ print("Hello World")
 print("Ampogi ni Mark Wilson")
 print("Sana matapos na tong OJT!!!")
 
-x = 100
-y = 200
+x = 300
+y = 1000
 
 print(x + y)
