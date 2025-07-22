@@ -2,6 +2,7 @@ print("Hello World")
 print("Ampogi ni Mark Wilson")
 print("Sana matapos na tong OJT!!!")
 print("Ang hirap mag hanap ng mga bagay bagay")
+print("Ang hirap mag hanap ng mga bagay bagay")
 
 x = 1000
 y = 500
